@@ -1,4 +1,4 @@
-I am learning git and github  .
+Git makes teamwork easier.
 Git tracks the changes int my files.
 My college is LNMIIT .
 This line was added on a feature branch. to notes.txt.
